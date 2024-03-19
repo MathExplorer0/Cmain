@@ -1,2 +1,2 @@
 # Cmain
-Experementing with C
+Experimenting with C
